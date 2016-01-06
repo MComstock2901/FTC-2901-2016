@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/michaelcomstock/Documents/Programming/Robotics/Test FTC 2016/FtcRobotController/build/intermediates/exploded-aar/Hardware-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="312452430a607b39b92221fbed687e458ed9c8c7">
+        <dex dex="/Users/michaelcomstock/Documents/Programming/Robotics/Test FTC 2016/FtcRobotController/build/intermediates/pre-dexed/debug/classes-175ba89f2f0932a805e302ac8085e61c3ff619bb.jar" />
+    </item>
+    <item
+        jar="/Users/michaelcomstock/Documents/Programming/Robotics/FTC-2901-2016/FtcRobotController/build/intermediates/exploded-aar/WirelessP2p-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b5f9e5d9a3cadf7329bbbaea6def0fb86d3773a2">
+        <dex dex="/Users/michaelcomstock/Documents/Programming/Robotics/FTC-2901-2016/FtcRobotController/build/intermediates/pre-dexed/debug/classes-6c055f11c59be410876c87a2c294decda06f2e03.jar" />
+    </item>
+    <item
+        jar="/Users/michaelcomstock/Documents/Programming/Robotics/Test FTC 2016/FtcRobotController/build/intermediates/exploded-aar/WirelessP2p-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b5f9e5d9a3cadf7329bbbaea6def0fb86d3773a2">
+        <dex dex="/Users/michaelcomstock/Documents/Programming/Robotics/Test FTC 2016/FtcRobotController/build/intermediates/pre-dexed/debug/classes-7f7345d29c81b543218c712b289c94f256462088.jar" />
+    </item>
+    <item
+        jar="/Users/michaelcomstock/Documents/Programming/Robotics/Test FTC 2016/FtcRobotController/build/intermediates/exploded-aar/ModernRobotics-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="78166ead5f1793270fb95aff9f878f98331ac6e9">
+        <dex dex="/Users/michaelcomstock/Documents/Programming/Robotics/Test FTC 2016/FtcRobotController/build/intermediates/pre-dexed/debug/classes-397438e1b6043f183f3956837ada59c329b9bb8a.jar" />
+    </item>
+    <item
+        jar="/Users/michaelcomstock/Documents/Programming/Robotics/Test FTC 2016/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="51740db7999259bcef8a679f349034c760ceb172">
+        <dex dex="/Users/michaelcomstock/Documents/Programming/Robotics/Test FTC 2016/FtcRobotController/build/intermediates/pre-dexed/debug/classes-f584bcc6bfda656f39b33ae9d7c62aa90744cf58.jar" />
+    </item>
+    <item
+        jar="/Users/michaelcomstock/Documents/Programming/Robotics/FTC-2901-2016/FtcRobotController/build/intermediates/exploded-aar/ModernRobotics-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="78166ead5f1793270fb95aff9f878f98331ac6e9">
+        <dex dex="/Users/michaelcomstock/Documents/Programming/Robotics/FTC-2901-2016/FtcRobotController/build/intermediates/pre-dexed/debug/classes-ae8862801db7883a43c0788393344470c0739f99.jar" />
+    </item>
+    <item
+        jar="/Users/michaelcomstock/Documents/Programming/Robotics/FTC-2901-2016/FtcRobotController/build/intermediates/exploded-aar/Hardware-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="312452430a607b39b92221fbed687e458ed9c8c7">
+        <dex dex="/Users/michaelcomstock/Documents/Programming/Robotics/FTC-2901-2016/FtcRobotController/build/intermediates/pre-dexed/debug/classes-214ecff3d4faa5d05108955fb9331d95274b2db4.jar" />
+    </item>
+    <item
+        jar="/Users/michaelcomstock/Documents/Programming/Robotics/Test FTC 2016/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9112d15701e2c29945597c234eb28110f3e77ddc">
+        <dex dex="/Users/michaelcomstock/Documents/Programming/Robotics/Test FTC 2016/FtcRobotController/build/intermediates/pre-dexed/debug/classes-c0acb7ff432f2494d80a252c542859e72f68d556.jar" />
+    </item>
+    <item
+        jar="/Users/michaelcomstock/Documents/Programming/Robotics/FTC-2901-2016/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="51740db7999259bcef8a679f349034c760ceb172">
+        <dex dex="/Users/michaelcomstock/Documents/Programming/Robotics/FTC-2901-2016/FtcRobotController/build/intermediates/pre-dexed/debug/classes-4915fde2cb0dddfa52131f0d6f64a244544e8815.jar" />
+    </item>
+    <item
+        jar="/Users/michaelcomstock/Documents/Programming/Robotics/FTC-2901-2016/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9112d15701e2c29945597c234eb28110f3e77ddc">
+        <dex dex="/Users/michaelcomstock/Documents/Programming/Robotics/FTC-2901-2016/FtcRobotController/build/intermediates/pre-dexed/debug/classes-67a2cb6e249f950cd580fea94f05a55f6804c528.jar" />
+    </item>
+    <item
+        jar="/Users/michaelcomstock/Documents/Programming/Robotics/Test FTC 2016/FtcRobotController/build/intermediates/exploded-aar/Analytics-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="be03c1ee2c4c731033845ec1846923138dc9e0fa">
+        <dex dex="/Users/michaelcomstock/Documents/Programming/Robotics/Test FTC 2016/FtcRobotController/build/intermediates/pre-dexed/debug/classes-324263c1697993165532c73b0a8c0126672a2807.jar" />
+    </item>
+    <item
+        jar="/Users/michaelcomstock/Documents/Programming/Robotics/FTC-2901-2016/FtcRobotController/build/intermediates/exploded-aar/Analytics-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="be03c1ee2c4c731033845ec1846923138dc9e0fa">
+        <dex dex="/Users/michaelcomstock/Documents/Programming/Robotics/FTC-2901-2016/FtcRobotController/build/intermediates/pre-dexed/debug/classes-20cbef12a53cfcc0ef13ab3518d1734ec284af66.jar" />
+    </item>
+
+</items>

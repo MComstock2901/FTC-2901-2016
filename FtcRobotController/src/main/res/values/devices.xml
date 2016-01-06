@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="motor_wheel_right">motor_right</string>
+        <string name="motor_wheel_left">motor_left</string>
+        <string name="legacy_motor_arm">motor_arm</string>
+        <string name="legacy_servo_wrist">servo_wrist</string>
+        <string name="legacy_servo_hand">servo_hand</string>
+        <string name="legacy_controller_arm">arm_controller</string>
+</resources>
